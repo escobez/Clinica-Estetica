@@ -1,0 +1,8 @@
+{
+  "name": "Remix Fio a Fio | Studio de Beleza em Bauru",
+  "description": "Studio de beleza em Bauru há 15 anos. Especializado em cabeleireiro, manicure e pedicure, maquiagem e depilação. Agendamento rápido via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
